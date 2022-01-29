@@ -1,0 +1,18 @@
+:root {
+    --color1: #f5f3f3;
+}
+.first{
+ background-color: var(--color1);
+}
+
+.home-img img{
+ width: 100%;
+ margin-top: 100px;
+ margin-bottom: 100px;
+ border-radius: 50%;
+}
+.imgi{
+    width: 30px; 
+    display: inline;
+    margin-left: 10px;
+}
